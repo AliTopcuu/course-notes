@@ -26,6 +26,7 @@ pip install mkdocs-git-revision-date-localized-plugin
 pip install mkdocs-minify-plugin
 pip install mkdocs-static-i18n
 pip install mkdocs-with-pdf
+pip install mkdocs-video
 pip install qrcode
 pip install mkdocs-awesome-pages-plugin
 pip install pptx2md
