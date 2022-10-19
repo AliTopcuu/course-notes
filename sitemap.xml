@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
          <loc>https://AliTopcuu.github.io/course-notes/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <lastmod>2022-10-19</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="https://AliTopcuu.github.io/course-notes/en/"/>
          <xhtml:link rel="alternate" hreflang="tr" href="https://AliTopcuu.github.io/course-notes/tr/"/>
@@ -10,7 +10,7 @@
     </url>
     <url>
          <loc>https://AliTopcuu.github.io/course-notes/license/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <lastmod>2022-10-19</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="https://AliTopcuu.github.io/course-notes/en/license/"/>
          <xhtml:link rel="alternate" hreflang="tr" href="https://AliTopcuu.github.io/course-notes/tr/license/"/>
@@ -18,7 +18,7 @@
     </url>
     <url>
          <loc>https://AliTopcuu.github.io/course-notes/changelog/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <lastmod>2022-10-19</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="https://AliTopcuu.github.io/course-notes/en/changelog/"/>
          <xhtml:link rel="alternate" hreflang="tr" href="https://AliTopcuu.github.io/course-notes/tr/changelog/"/>
@@ -26,7 +26,7 @@
     </url>
     <url>
          <loc>https://AliTopcuu.github.io/course-notes/resume/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <lastmod>2022-10-19</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="https://AliTopcuu.github.io/course-notes/en/resume/"/>
          <xhtml:link rel="alternate" hreflang="tr" href="https://AliTopcuu.github.io/course-notes/tr/resume/"/>
@@ -34,23 +34,39 @@
     </url>
     <url>
          <loc>https://AliTopcuu.github.io/course-notes/syllabus/syllabus/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <lastmod>2022-10-19</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="https://AliTopcuu.github.io/course-notes/en/syllabus/syllabus/"/>
          <xhtml:link rel="alternate" hreflang="tr" href="https://AliTopcuu.github.io/course-notes/tr/syllabus/syllabus/"/>
          
     </url>
     <url>
+         <loc>https://AliTopcuu.github.io/course-notes/week-1/ce103-week-1-intro/</loc>
+         <lastmod>2022-10-19</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://AliTopcuu.github.io/course-notes/en/week-1/ce103-week-1-intro/"/>
+         <xhtml:link rel="alternate" hreflang="tr" href="https://AliTopcuu.github.io/course-notes/tr/week-1/ce103-week-1-intro/"/>
+         
+    </url>
+    <url>
          <loc>https://AliTopcuu.github.io/course-notes/week-1/week-1/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <lastmod>2022-10-19</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="https://AliTopcuu.github.io/course-notes/en/week-1/week-1/"/>
          <xhtml:link rel="alternate" hreflang="tr" href="https://AliTopcuu.github.io/course-notes/tr/week-1/week-1/"/>
          
     </url>
     <url>
+         <loc>https://AliTopcuu.github.io/course-notes/week-2/ce103-week-2-setup/</loc>
+         <lastmod>2022-10-19</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://AliTopcuu.github.io/course-notes/en/week-2/ce103-week-2-setup/"/>
+         <xhtml:link rel="alternate" hreflang="tr" href="https://AliTopcuu.github.io/course-notes/tr/week-2/ce103-week-2-setup/"/>
+         
+    </url>
+    <url>
          <loc>https://AliTopcuu.github.io/course-notes/week-2/week-2/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <lastmod>2022-10-19</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="https://AliTopcuu.github.io/course-notes/en/week-2/week-2/"/>
          <xhtml:link rel="alternate" hreflang="tr" href="https://AliTopcuu.github.io/course-notes/tr/week-2/week-2/"/>
@@ -58,7 +74,7 @@
     </url>
     <url>
          <loc>https://AliTopcuu.github.io/course-notes/week-2/sources/llvm-clang-hello-world-apps/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <lastmod>2022-10-19</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="https://AliTopcuu.github.io/course-notes/en/week-2/sources/llvm-clang-hello-world-apps/"/>
          <xhtml:link rel="alternate" hreflang="tr" href="https://AliTopcuu.github.io/course-notes/tr/week-2/sources/llvm-clang-hello-world-apps/"/>
@@ -66,7 +82,7 @@
     </url>
     <url>
          <loc>https://AliTopcuu.github.io/course-notes/week-2/sources/mingw-gcc-hello-world-apps/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <lastmod>2022-10-19</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="https://AliTopcuu.github.io/course-notes/en/week-2/sources/mingw-gcc-hello-world-apps/"/>
          <xhtml:link rel="alternate" hreflang="tr" href="https://AliTopcuu.github.io/course-notes/tr/week-2/sources/mingw-gcc-hello-world-apps/"/>
@@ -74,7 +90,7 @@
     </url>
     <url>
          <loc>https://AliTopcuu.github.io/course-notes/week-2/sources/npp-gcc-hello-world-apps/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <lastmod>2022-10-19</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="https://AliTopcuu.github.io/course-notes/en/week-2/sources/npp-gcc-hello-world-apps/"/>
          <xhtml:link rel="alternate" hreflang="tr" href="https://AliTopcuu.github.io/course-notes/tr/week-2/sources/npp-gcc-hello-world-apps/"/>
